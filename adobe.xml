@@ -1,7 +1,7 @@
 <palette>
-    <color name='Copy-of-Ocean-1' rgb='003840' r='0' g='56' b='63' />
-    <color name='Copy-of-Ocean-2' rgb='005A5B' r='0' g='89' b='91' />
-    <color name='Copy-of-Ocean-3' rgb='007369' r='0' g='114' b='105' />
-    <color name='Copy-of-Ocean-4' rgb='008C72' r='0' g='140' b='114' />
-    <color name='Copy-of-Ocean-5' rgb='02A676' r='2' g='165' b='117' />
+    <color name='color-theme_undraw_money-received_eg1c-1' rgb='F2A2A9' r='242' g='162' b='169' />
+    <color name='color-theme_undraw_money-received_eg1c-2' rgb='635EF2' r='99' g='94' b='242' />
+    <color name='color-theme_undraw_money-received_eg1c-3' rgb='05050D' r='5' g='5' b='13' />
+    <color name='color-theme_undraw_money-received_eg1c-4' rgb='414059' r='65' g='64' b='89' />
+    <color name='color-theme_undraw_money-received_eg1c-5' rgb='F2F2F2' r='242' g='242' b='242' />
 </palette>
