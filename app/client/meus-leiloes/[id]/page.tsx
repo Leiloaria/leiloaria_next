@@ -78,6 +78,7 @@ export default function LeilaoPage() {
           body: JSON.stringify(data),
         });
         if (response.ok) {
+          alert("Êxito ao atualizar leilão!");
           setLeilao(await response.json());
         } else {
           const error = await response.json();

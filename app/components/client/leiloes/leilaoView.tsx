@@ -298,11 +298,11 @@ export default function LeilaoView({
                                                 <p>
                                                     Email: {leilao.proprietario.email}
                                                 </p>
-                                                <p>
+                                                <div>
                                                     {leilao.proprietario.telefone.map((telefone, index) => (
-                                                        <p>Telefone {index + 1}: {formatTelefone(telefone)}</p>
+                                                        <p key={"tel"+index}>Telefone {index + 1}: {formatTelefone(telefone)}</p>
                                                     ))}
-                                                </p>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
